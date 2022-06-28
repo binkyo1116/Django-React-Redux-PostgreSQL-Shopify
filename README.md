@@ -1,74 +1,43 @@
-Contribution: 2020-02-26 20:00
+# React-Django-Shop
+Ecommerce app built with **React + Redux** on the frontend and **Django** on the backend. The database used is **PostgreSQL**. The site is hosted on **Heroku**, database is on **AWS RDS** and uploaded images are stored on **AWS S3**.
 
-Contribution: 2020-03-14 20:00
+You are welcome to register on the website and play around :)
 
-Contribution: 2020-03-16 20:00
+**HERE IS THE [LINK](https://react-django-appstore.herokuapp.com/)**.
 
-Contribution: 2020-03-28 20:00
+## MAIN PAGE:
 
-Contribution: 2020-03-30 20:00
+![Main Page Pic](https://i.imgur.com/qtf9tA6.jpg)
 
-Contribution: 2020-04-01 20:00
 
-Contribution: 2020-04-10 20:00
+## SIGN-IN PAGE:
 
-Contribution: 2020-04-15 20:00
+![Signin Page Pic](https://i.imgur.com/31FEnrb.jpg)
 
-Contribution: 2020-04-16 20:00
+## PRODUCT PAGE:
 
-Contribution: 2020-04-18 20:00
+![Product Page Pic](https://i.imgur.com/dxGSE6q.jpg)
 
-Contribution: 2020-05-02 20:00
+## SHOPPING CART:
 
-Contribution: 2020-05-05 20:00
+![Shopping Cart Pic](https://i.imgur.com/ekKYihK.jpg)
 
-Contribution: 2020-05-14 20:00
+## CHECKOUT PAGE:
 
-Contribution: 2020-05-23 20:00
+![Checkout Page Pic](https://i.imgur.com/goLCLR4.jpg)
 
-Contribution: 2020-05-27 20:00
+## ORDER SUMMARY:
 
-Contribution: 2020-05-28 20:00
+![Order Summary](https://i.imgur.com/p97zMJ5.jpg)
 
-Contribution: 2020-06-02 20:00
+## ADMIN PAGE 1 - USERS INFO:
 
-Contribution: 2020-06-03 20:00
+![Admin Page 1 - users info](https://i.imgur.com/79xw8Vf.jpg)
 
-Contribution: 2020-06-04 20:00
+## ADMIN PAGE 2 - PRODUCTS INFO:
 
-Contribution: 2020-06-06 20:00
+![Admin Page 2 - Products Info](https://i.imgur.com/HKBWAf6.jpg)
 
-Contribution: 2020-06-16 20:00
+## ADMIN PAGE 3 - ORDERS INFO:
 
-Contribution: 2020-06-23 20:00
-
-Contribution: 2020-06-26 20:00
-
-Contribution: 2020-07-03 20:00
-
-Contribution: 2020-07-18 20:00
-
-Contribution: 2020-07-25 20:00
-
-Contribution: 2020-07-30 20:00
-
-Contribution: 2020-08-15 20:00
-
-Contribution: 2020-08-19 20:00
-
-Contribution: 2020-08-20 20:00
-
-Contribution: 2020-08-22 20:00
-
-Contribution: 2020-09-20 20:00
-
-Contribution: 2020-10-26 20:00
-
-Contribution: 2020-10-28 20:00
-
-Contribution: 2020-11-08 20:00
-
-Contribution: 2020-11-14 20:00
-
-Contribution: 2020-11-20 20:00
-
+![Admin Page 3 - Orders Info](https://i.imgur.com/VygSC6B.jpg)
